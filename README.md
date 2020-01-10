@@ -3,15 +3,15 @@ In emerging countries it’s common to find unpaved roads or roads with no maint
 
 [![Road Surface Classification](https://i.imgur.com/wQU0CHa.png)](https://youtu.be/3UM97O0MQ3w "Road Surface Classification")
 
-```
  Citation: </br>
-@article{rtk:2019, </br>
-  author = {Thiago Rateke and Karla Aparecida Justen and Aldo von Wangenheim}, </br>
-  title = {Road Surface Classification with Images Captured From Low-cost Cameras – Road Traversing Knowledge (RTK) Dataset}, </br>
-  journal = {Revista de Informática Teórica e Aplicada (RITA)}, </br>
-   volume = {26}, </br>
-  year = {2019}, </br>
-   doi = {https://doi.org/10.22456/2175-2745.91522}, </br>
+ ```
+@article{rtk:2019,
+  author = {Thiago Rateke and Karla Aparecida Justen and Aldo von Wangenheim},
+  title = {Road Surface Classification with Images Captured From Low-cost Cameras – Road Traversing Knowledge (RTK) Dataset},
+  journal = {Revista de Informática Teórica e Aplicada (RITA)},
+   volume = {26},
+  year = {2019},
+   doi = {https://doi.org/10.22456/2175-2745.91522},
 }
 ```
 
@@ -20,7 +20,7 @@ For the models trained here, 3 datasets were used:
  - KITTI dataset [2].
  - CaRINA dataset [3].
 
-In this work we used the CNN structure presented by ANKIT SACHAN in [4] with few adaptations to our problem, such as: sizes, Region of Interest, and data augmentation.
+In this work we used the CNN structure presented by [4] with few adaptations to our problem, such as: sizes, Region of Interest, and data augmentation.
  
  REFERENCES:  </br>
 - [1] - Rateke T, Justen KA, von Wangenheim A. Road surface classification with images captured from low-cost cameras – Road Traversing Knowledge (RTK) dataset. Revista de Informática Teórica e Aplicada (RITA). Url: http://www.lapix.ufsc.br/pesquisas/projeto-veiculo-autonomo/datasets/ </br>
