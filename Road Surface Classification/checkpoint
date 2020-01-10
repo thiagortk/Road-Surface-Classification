@@ -1,0 +1,2 @@
+model_checkpoint_path: "roadsurface-model"
+all_model_checkpoint_paths: "roadsurface-model"
