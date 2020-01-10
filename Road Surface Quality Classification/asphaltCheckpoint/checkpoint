@@ -1,0 +1,2 @@
+model_checkpoint_path: "../roadsurfaceAsphaltQuality-model"
+all_model_checkpoint_paths: "../roadsurfaceAsphaltQuality-model"
