@@ -18,7 +18,7 @@ For the models trained here, 3 datasets were used:
  - KITTI dataset [2].
  - CaRINA dataset [3].
 
-In this work we used the CNN structure presented by ANKIT SACHAN in [4].
+In this work we used the CNN structure presented by ANKIT SACHAN in [4] with few adaptations to our problem, such as: sizes, Region of Interest, and data augmentation.
  
  REFERENCES:  </br>
 - [1] - Rateke T, Justen KA, von Wangenheim A. Road surface classification with images captured from low-cost cameras – Road Traversing Knowledge (RTK) dataset. Revista de Informática Teórica e Aplicada (RITA). Url: http://www.lapix.ufsc.br/pesquisas/projeto-veiculo-autonomo/datasets/ </br>
