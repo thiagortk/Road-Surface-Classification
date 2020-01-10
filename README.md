@@ -1,9 +1,9 @@
 # Road-Surface-Classification
 In emerging countries it’s common to find unpaved roads or roads with no maintenance. Unpaved or damaged roads also impact in higher fuel costs and vehicle maintenance. This kind of analysis can be useful for both road maintenance departments as well as for autonomous vehicle navigation systems to verify potential critical points. The road type and quality classifier was done through a simple Convolutional Neural Network with few steps.
 
-[![Road Surface Classification](https://i.imgur.com/q39PBjl.png)](https://youtu.be/3UM97O0MQ3w "Road Surface Classification")
+[![Road Surface Classification](https://i.imgur.com/wQU0CHa.png)](https://youtu.be/3UM97O0MQ3w "Road Surface Classification")
 
- Citation:
+ Citation: </br>
 @article{rtk:2019, </br>
   author = {Thiago Rateke and Karla Aparecida Justen and Aldo von Wangenheim}, </br>
   title = {Road Surface Classification with Images Captured From Low-cost Cameras – Road Traversing Knowledge (RTK) Dataset}, </br>
@@ -20,7 +20,7 @@ For the models trained here, 3 datasets were used:
 
 In this work we used the CNN structure presented by ANKIT SACHAN in [4].
  
- REFERENCES:
+ REFERENCES:  </br>
 [1] - Rateke T, Justen KA, von Wangenheim A. Road surface classification with images captured from low-cost cameras – Road Traversing Knowledge (RTK) dataset. Revista de Informática Teórica e Aplicada (RITA). Url: http://www.lapix.ufsc.br/pesquisas/projeto-veiculo-autonomo/datasets/
 [2] - GEIGER, A. et al. Vision meets robotics: The kittidataset. Int. J. Rob. Res., Sage Publications, Inc., ThousandOaks, CA, USA, v. 32, n. 11, p. 1231–1237, sep 2013. Doi:hhttp://dx.doi.org/10.1177/0278364913491297i. Url: http://www.cvlibs.net/datasets/kitti/rawdata.php
 [3] - SHINZATO, P. Y. et al. Carina dataset: An emerging-country urban scenario benchmark for road detection systems.In:2016 IEEE 19th International Conference on IntelligentTransportation Systems (ITSC). [S.l.:  s.n.], 2016. p. 41–46.Doi:hhttp://dx.doi.org/10.1109/ITSC.2016.7795529i. Url: http://www.lrm.icmc.usp.br/dataset 
