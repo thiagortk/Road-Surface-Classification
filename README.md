@@ -3,6 +3,7 @@ In emerging countries it’s common to find unpaved roads or roads with no maint
 
 [![Road Surface Classification](https://i.imgur.com/wQU0CHa.png)](https://youtu.be/3UM97O0MQ3w "Road Surface Classification")
 
+```
  Citation: </br>
 @article{rtk:2019, </br>
   author = {Thiago Rateke and Karla Aparecida Justen and Aldo von Wangenheim}, </br>
@@ -12,6 +13,7 @@ In emerging countries it’s common to find unpaved roads or roads with no maint
   year = {2019}, </br>
    doi = {https://doi.org/10.22456/2175-2745.91522}, </br>
 }
+```
 
 For the models trained here, 3 datasets were used:
  - RTK dataset [1].
