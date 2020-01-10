@@ -21,4 +21,4 @@ If you want to do a new training and create a new model, populate the folders(cl
 
 python trainAsphaltQuality.py
 python trainPavedQuality.py
-python trainUnpavedQuality.py
+python trainUnpavedQuality.py 
