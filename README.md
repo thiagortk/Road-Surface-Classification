@@ -1,7 +1,7 @@
 # Road-Surface-Classification
 In emerging countries it’s common to find unpaved roads or roads with no maintenance. Unpaved or damaged roads also impact in higher fuel costs and vehicle maintenance. This kind of analysis can be useful for both road maintenance departments as well as for autonomous vehicle navigation systems to verify potential critical points. The road type and quality classifier was done through a simple Convolutional Neural Network with few steps.
 
-[![Road Surface Classification](https://i.imgur.com/q39PBjl.png =352x288)](https://youtu.be/3UM97O0MQ3w "Road Surface Classification")
+[![Road Surface Classification](https://i.imgur.com/q39PBjl.png=352x288)](https://youtu.be/3UM97O0MQ3w "Road Surface Classification")
 
  Citation:
 @article{rtk:2019,
