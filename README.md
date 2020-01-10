@@ -5,7 +5,7 @@ In emerging countries it’s common to find unpaved roads or roads with no maint
 
  Citation:
 @article{rtk:2019,
-  author = {Thiago Rateke and Karla Aparecida Justen and Aldo von Wangenheim},
+  author = {Thiago Rateke and Karla Aparecida Justen and Aldo von Wangenheim}, </br>
   title = {Road Surface Classification with Images Captured From Low-cost Cameras – Road Traversing Knowledge (RTK) Dataset},
   journal = {Revista de Informática Teórica e Aplicada (RITA)},
    volume = {26},
