@@ -21,7 +21,7 @@ For the models trained here, 3 datasets were used:
 In this work we used the CNN structure presented by ANKIT SACHAN in [4].
  
  REFERENCES:  </br>
-[1] - Rateke T, Justen KA, von Wangenheim A. Road surface classification with images captured from low-cost cameras – Road Traversing Knowledge (RTK) dataset. Revista de Informática Teórica e Aplicada (RITA). Url: http://www.lapix.ufsc.br/pesquisas/projeto-veiculo-autonomo/datasets/
-[2] - GEIGER, A. et al. Vision meets robotics: The kittidataset. Int. J. Rob. Res., Sage Publications, Inc., ThousandOaks, CA, USA, v. 32, n. 11, p. 1231–1237, sep 2013. Doi:hhttp://dx.doi.org/10.1177/0278364913491297i. Url: http://www.cvlibs.net/datasets/kitti/rawdata.php
-[3] - SHINZATO, P. Y. et al. Carina dataset: An emerging-country urban scenario benchmark for road detection systems.In:2016 IEEE 19th International Conference on IntelligentTransportation Systems (ITSC). [S.l.:  s.n.], 2016. p. 41–46.Doi:hhttp://dx.doi.org/10.1109/ITSC.2016.7795529i. Url: http://www.lrm.icmc.usp.br/dataset 
-[4] - SACHAN, A. Tensorflow Tutorial 2: image classifier using convolutional neural network.2017. Url: https://cv-tricks.com/tensorflow-tutorial/training-convolutional-neural-network-for-image-classification/
+- [1] - Rateke T, Justen KA, von Wangenheim A. Road surface classification with images captured from low-cost cameras – Road Traversing Knowledge (RTK) dataset. Revista de Informática Teórica e Aplicada (RITA). Url: http://www.lapix.ufsc.br/pesquisas/projeto-veiculo-autonomo/datasets/ </br>
+- [2] - GEIGER, A. et al. Vision meets robotics: The kittidataset. Int. J. Rob. Res., Sage Publications, Inc., ThousandOaks, CA, USA, v. 32, n. 11, p. 1231–1237, sep 2013. Doi:hhttp://dx.doi.org/10.1177/0278364913491297i. Url: http://www.cvlibs.net/datasets/kitti/rawdata.php </br>
+- [3] - SHINZATO, P. Y. et al. Carina dataset: An emerging-country urban scenario benchmark for road detection systems.In:2016 IEEE 19th International Conference on IntelligentTransportation Systems (ITSC). [S.l.:  s.n.], 2016. p. 41–46.Doi:hhttp://dx.doi.org/10.1109/ITSC.2016.7795529i. Url: http://www.lrm.icmc.usp.br/dataset  </br>
+- [4] - SACHAN, A. Tensorflow Tutorial 2: image classifier using convolutional neural network.2017. Url: https://cv-tricks.com/tensorflow-tutorial/training-convolutional-neural-network-for-image-classification/ </br>
