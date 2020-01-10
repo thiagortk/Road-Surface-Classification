@@ -1,16 +1,16 @@
 # Road-Surface-Classification
 In emerging countries it’s common to find unpaved roads or roads with no maintenance. Unpaved or damaged roads also impact in higher fuel costs and vehicle maintenance. This kind of analysis can be useful for both road maintenance departments as well as for autonomous vehicle navigation systems to verify potential critical points. The road type and quality classifier was done through a simple Convolutional Neural Network with few steps.
 
-[![Road Surface Classification](https://i.imgur.com/q39PBjl.png=352x288)](https://youtu.be/3UM97O0MQ3w "Road Surface Classification")
+[![Road Surface Classification](https://i.imgur.com/q39PBjl.png)](https://youtu.be/3UM97O0MQ3w "Road Surface Classification")
 
  Citation:
-@article{rtk:2019,
+@article{rtk:2019, </br>
   author = {Thiago Rateke and Karla Aparecida Justen and Aldo von Wangenheim}, </br>
-  title = {Road Surface Classification with Images Captured From Low-cost Cameras – Road Traversing Knowledge (RTK) Dataset},
-  journal = {Revista de Informática Teórica e Aplicada (RITA)},
-   volume = {26},
-  year = {2019},
-   doi = {https://doi.org/10.22456/2175-2745.91522},
+  title = {Road Surface Classification with Images Captured From Low-cost Cameras – Road Traversing Knowledge (RTK) Dataset}, </br>
+  journal = {Revista de Informática Teórica e Aplicada (RITA)}, </br>
+   volume = {26}, </br>
+  year = {2019}, </br>
+   doi = {https://doi.org/10.22456/2175-2745.91522}, </br>
 }
 
 For the models trained here, 3 datasets were used:
