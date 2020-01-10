@@ -3,8 +3,24 @@ In emerging countries it’s common to find unpaved roads or roads with no maint
 
 [![Road Surface Classification](https://i.imgur.com/q39PBjl.png)](https://youtu.be/3UM97O0MQ3w "Road Surface Classification")
 
+<iframe width="560" height="315"
+src="https://www.youtube.com/embed/MUQfKFzIOeU" 
+frameborder="0" 
+allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
+allowfullscreen></iframe>
+
+ Citation:
+@article{rtk:2019,
+  author = {Thiago Rateke and Karla Aparecida Justen and Aldo von Wangenheim},
+  title = {Road Surface Classification with Images Captured From Low-cost Cameras – Road Traversing Knowledge (RTK) Dataset},
+  journal = {Revista de Informática Teórica e Aplicada (RITA)},
+   volume = {26},
+  year = {2019},
+   doi = {https://doi.org/10.22456/2175-2745.91522},
+}
+
 For the models trained here, 3 datasets were used:
- - RTK dataset [1]
+ - RTK dataset [1].
  - KITTI dataset [2].
  - CaRINA dataset [3].
 
