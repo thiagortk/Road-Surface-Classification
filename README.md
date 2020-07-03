@@ -26,7 +26,7 @@ To read more about the RTK dataset and access it, please visit [http://www.lapix
 In this work we used the CNN structure presented by [4] with few adaptations to our problem, such as: sizes, Region of Interest, and data augmentation.
  
  ## REFERENCES:
-- [1] - Rateke T, Justen KA, von Wangenheim A. Road surface classification with images captured from low-cost cameras – Road Traversing Knowledge (RTK) dataset. Revista de Informática Teórica e Aplicada (RITA). Url: http://www.lapix.ufsc.br/pesquisas/projeto-veiculo-autonomo/datasets/ </br>
-- [2] - GEIGER, A. et al. Vision meets robotics: The kittidataset. Int. J. Rob. Res., Sage Publications, Inc., ThousandOaks, CA, USA, v. 32, n. 11, p. 1231–1237, sep 2013. Doi:hhttp://dx.doi.org/10.1177/0278364913491297i. Url: http://www.cvlibs.net/datasets/kitti/rawdata.php </br>
+- [1] - Rateke T, Justen KA, von Wangenheim A. Road surface classification with images captured from low-cost cameras – Road Traversing Knowledge (RTK) dataset. Revista de Informática Teórica e Aplicada (RITA). Url: http://www.lapix.ufsc.br/pesquisas/projeto-veiculo-autonomo/datasets/?lang=en </br>
+- [2] - GEIGER, A. et al. Vision meets robotics: The kittidataset. Int. J. Rob. Res., Sage Publications, Inc., ThousandOaks, CA, USA, v. 32, n. 11, p. 1231–1237, sep 2013. Doi:hhttp://dx.doi.org/10.1177/0278364913491297i. Url: http://www.cvlibs.net/datasets/kitti/raw_data.php </br>
 - [3] - SHINZATO, P. Y. et al. Carina dataset: An emerging-country urban scenario benchmark for road detection systems.In:2016 IEEE 19th International Conference on IntelligentTransportation Systems (ITSC). [S.l.:  s.n.], 2016. p. 41–46.Doi:hhttp://dx.doi.org/10.1109/ITSC.2016.7795529i. Url: http://www.lrm.icmc.usp.br/dataset  </br>
 - [4] - SACHAN, A. Tensorflow Tutorial 2: image classifier using convolutional neural network.2017. Url: https://cv-tricks.com/tensorflow-tutorial/training-convolutional-neural-network-for-image-classification/ </br>
