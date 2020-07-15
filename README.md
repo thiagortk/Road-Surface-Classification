@@ -15,8 +15,8 @@ In emerging countries it’s common to find unpaved roads or roads with no maint
 }
 ```
 
-[Original Paper](https://www.researchgate.net/publication/337682194_Road_Surface_Classification_with_Images_Captured_From_Low-cost_Camera_-_Road_Traversing_Knowledge_RTK_Dataset)
-[Step-by-step](https://towardsdatascience.com/road-surface-classification-150f9874faef?source=friends_link&sk=84e7b707232b901ccea4e0d3f9b13d30)
+ - [Original Paper](https://www.researchgate.net/publication/337682194_Road_Surface_Classification_with_Images_Captured_From_Low-cost_Camera_-_Road_Traversing_Knowledge_RTK_Dataset)
+ - [Step-by-step](https://towardsdatascience.com/road-surface-classification-150f9874faef?source=friends_link&sk=84e7b707232b901ccea4e0d3f9b13d30)
 
 
 ## Datasets
